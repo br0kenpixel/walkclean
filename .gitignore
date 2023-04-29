@@ -11,3 +11,7 @@ target/
 
 # macOS
 .DS_Store
+
+# release builds
+gen-release-builds.sh
+release-builds/
