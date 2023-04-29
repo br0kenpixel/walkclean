@@ -1,0 +1,9 @@
+[package]
+name = "walkclean"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+env_logger = "0.10.0"
+log = "0.4.17"
+walkdir = "2.3.3"
